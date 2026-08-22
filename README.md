@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:1a0d00,60:2a1500,100:080808&height=220&section=header&text=MANAS%20SAHU&fontSize=62&fontColor=fbbf24&fontAlignY=38&desc=Hardware%20%C3%97%20Firmware%20%C3%97%20AI%20%E2%80%94%20Built%20from%20Scratch&descAlignY=58&descSize=20&descColor=fde68a&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/manassahu-cmd">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:1a0d00,60:2a1500,100:080808&height=220&section=header&text=MANAS%20SAHU&fontSize=62&fontColor=fbbf24&fontAlignY=38&desc=Hardware%20%C3%97%20Firmware%20%C3%97%20AI%20%E2%80%94%20Built%20from%20Scratch&descAlignY=58&descSize=20&descColor=fde68a&animation=fadeIn" width="100%"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hardware+%C3%97+Firmware+%C3%97+AI+%E2%80%94+Built+from+Scratch.;Circuits+first%2C+code+always.;PCB+traces+%E2%86%92+PID+loops+%E2%86%92+ReAct+agents.;Hardware+that+thinks.+Software+that+ships.;Fastest+line+follower.+Maze+solver.+Quadcopter.;Agentic+AI+%C2%B7+Deep+Learning+%C2%B7+Embedded+Systems.&font=Fira+Code&size=20&pause=1500&color=fbbf24&center=true&vCenter=true&width=680&height=40&separator=;" alt="Typing SVG" />
 
 <br/>
 
