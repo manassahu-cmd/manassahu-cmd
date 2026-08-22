@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact-8be9fd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/manassahu.bsp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manassahu.bsp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manassahu9922/)
 
 </div>
 
